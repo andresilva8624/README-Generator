@@ -1,22 +1,8 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
-function renderLicenseBadge(license) {}
-
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
-function renderLicenseLink(license) {}
-
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) {}
-
-// TODO: Create a function to generate markdown for README
-function generateMarkdown(data) {
-  return `# ${data.title}
+# andre
 
 
   ## Description
-  ${data.description}
+  araedf
   
   ## Table of Contents 
     
@@ -27,11 +13,11 @@ function generateMarkdown(data) {
   
   
   ## Installation
-  ${data.installation}
+  ads
   Clone the repository to your local machine and open the index.html file in your browser
   
   ## Usage
-  ${data.usage}
+  
   [Deployed Site](https://andresilva8624.github.io/Password-Generator/)
   
   ![gif of deployed site](./assets/images/website.gif)
@@ -39,12 +25,12 @@ function generateMarkdown(data) {
   
   ## Contributions
 
-  ${data.contributions}
+  dda
   ## Credits
 
   ## Test
   
-  ${data.test}
+  
   Thank you to [Sabrina Hanson](https://www.github.com/sabhanson) for helping me with this assignment
   
   ## License
@@ -76,12 +62,8 @@ function generateMarkdown(data) {
   To contact me use one of the links below
   
   
-  [GitHub](https://www.github.com/${data.github})
+  [GitHub](https://www.github.com/asdf)
   
   
   
-  [EMail](mailto:${data.email})
-`;
-}
-
-module.exports = generateMarkdown;
+  [EMail](mailto:aaaa)
