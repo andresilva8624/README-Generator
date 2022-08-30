@@ -11,7 +11,7 @@ const questions = [
   },
   {
     type: "input",
-    message: "Please enter a description of the project",
+    message: "Please enter a description of the project:",
     name: "description",
   },
   {
@@ -21,24 +21,14 @@ const questions = [
   },
   {
     type: "input",
-    message: "Usage Information",
-    name: "usage",
-  },
-  {
-    type: "input",
-    message: "Your contributions guidelins",
-    name: "contributions",
-  },
-  {
-    type: "input",
-    message: "Please test instructions:",
-    name: "test",
+    message: "Who helped you with the assigment:",
+    name: "assigment",
   },
   {
     type: "list",
     message: "Please choose a license",
     name: "license",
-    choices: ['test', 'test1', 'test2', 'none']
+    choices: [, 'ISC', '(MIT OR Apache-2.0)', 'UNLICENSED']
   },
   {
     type: "input",
@@ -61,12 +51,12 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
-    inquirer.prompt(questions)
-    .then((response)=> {
-        console.log(response)
-        writeToFile('README1.md', response)
-    }
-    )
+  inquirer.prompt(questions)
+  .then((response)=> {
+      console.log(response)
+      writeToFile('README1.md', response)
+  }
+  )
 }
 
 // Function call to initialize app
