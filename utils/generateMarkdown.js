@@ -52,8 +52,8 @@ function generateMarkdown(data) {
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
-${renderLicenseLink(data.license)}
-${renderBadgeLink(data.badge)}
+   ${renderLicenseLink(data.license)}
+  - [Badge](#badge)
   
   
   ## Installation
@@ -73,7 +73,8 @@ ${renderBadgeLink(data.badge)}
   ${renderLicenseSection(data.license)} 
 
 
-  ${renderBadgeSection(data.badge)}
+ ## Badge
+ [Badge](https://img.shields.io/github/license/andresilva8624/README-Generator?color=green&label=blue&logo=yellow&logoColor=black&style=plastic/${data.badge})
 
 
   

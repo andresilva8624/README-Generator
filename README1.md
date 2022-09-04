@@ -2,15 +2,15 @@
 
 
   ## Description
-  Generates a README
+  creates readmes
   
   ## Table of Contents 
    
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
-- [License](#license)
-- [Badge](#Badge)
+   - [License](#license)
+  - [Badge](#badge)
   
   
   ## Installation
@@ -20,7 +20,7 @@
   npm test
 
   ## Usage
-  creates readme
+  all usages
   
      
   ## Credits
@@ -28,11 +28,11 @@
   
   
   ## License
-    This project is protected under a UNLICENSED License 
+    This project is protected under a (MIT OR Apache-2.0) License 
 
 
-  ## Badge
-    This project is protected under a undefined Badge
+ ## Badge
+ [Badge](https://img.shields.io/github/license/andresilva8624/README-Generator?color=green&label=blue&logo=yellow&logoColor=black&style=plastic/undefined)
 
 
   
