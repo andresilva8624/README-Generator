@@ -2,7 +2,7 @@
 
 
   ## Description
-  It creates a README.md file using node.js
+  Generates a README
   
   ## Table of Contents 
    
@@ -15,6 +15,12 @@
   
   ## Installation
   npm install
+
+  ## Test
+  npm test
+
+  ## Usage
+  creates readme
   
      
   ## Credits
@@ -22,7 +28,7 @@
   
   
   ## License
-    This project is protected under a (MIT OR Apache-2.0) License 
+    This project is protected under a UNLICENSED License 
 
 
   ## Badge

@@ -1,10 +1,10 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(badge) {
-  if (badge === 'none') {
-    return ''
+function renderBadgeLink(badge) {
+  if (badge === "none") {
+    return "";
   } else {
-    return `- [Badge](#Badge)`
+    return `- [Badge](#Badge)`;
   }
 }
 
@@ -12,35 +12,30 @@ function renderLicenseBadge(badge) {
 // If there is no license, return an empty string
 // Table of contents
 function renderLicenseLink(license) {
-
-
-  if (license === 'none') {
-    return ''
+  if (license === "none") {
+    return "";
   } else {
-    return `- [License](#license)`
+    return `- [License](#license)`;
   }
 }
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
-  if (license === 'none') {
-    return ''
+  if (license === "none") {
+    return "";
   } else {
     return `## License
-    This project is protected under a ${license} License`
-
+    This project is protected under a ${license} License`;
   }
 }
 
-
 function renderBadgeSection(badge) {
-  if (badge === 'none') {
-    return ''
+  if (badge === "none") {
+    return "";
   } else {
     return `## Badge
-    This project is protected under a ${badge} Badge`
-
+    This project is protected under a ${badge} Badge`;
   }
 }
 
@@ -57,12 +52,18 @@ function generateMarkdown(data) {
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
-${renderLicenseLink(data.license) }
-${renderLicenseBadge(data.badge)}
+${renderLicenseLink(data.license)}
+${renderBadgeLink(data.badge)}
   
   
   ## Installation
   ${data.installation}
+
+  ## Test
+  ${data.test}
+
+  ## Usage
+  ${data.usage}
   
      
   ## Credits
