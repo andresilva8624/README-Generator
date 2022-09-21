@@ -1,8 +1,8 @@
-# README Generator
+# asd  ![Badge](https://img.shields.io/badge/GitHub-MIT-green.svg)
 
 
   ## Description
-  creates readmes
+  asd 
   
   ## Table of Contents 
    
@@ -14,13 +14,13 @@
   
   
   ## Installation
-  npm install
+  asd
 
   ## Test
-  npm test
+  asd
 
   ## Usage
-  all usages
+  asdas
   
      
   ## Credits
@@ -28,20 +28,15 @@
   
   
   ## License
-    This project is protected under a (MIT OR Apache-2.0) License 
+    This project is protected under a MIT License 
 
 
- ## Badge
- [Badge](https://img.shields.io/github/license/andresilva8624/README-Generator?color=green&label=blue&logo=yellow&logoColor=black&style=plastic/undefined)
-
-
-  
   
   ## Contact
   
   
-  [GitHub](https://www.github.com/andresilva8624)
+  [GitHub](https://www.github.com/asd)
   
   
   
-  [EMail](mailto:andresilva8624@gmail.com)
+  [EMail](mailto:asd)
