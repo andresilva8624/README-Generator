@@ -1,8 +1,8 @@
-# asd  ![Badge](https://img.shields.io/badge/GitHub-MIT-green.svg)
+# README Generator  ![Badge](https://img.shields.io/badge/GitHub-Apache-2.0-green.svg)
 
 
   ## Description
-  asd 
+  Generates README.md file 
   
   ## Table of Contents 
    
@@ -14,13 +14,13 @@
   
   
   ## Installation
-  asd
+  npm install
 
   ## Test
-  asd
+  npm test
 
   ## Usage
-  asdas
+  README
   
      
   ## Credits
@@ -28,15 +28,15 @@
   
   
   ## License
-    This project is protected under a MIT License 
+    This project is protected under a Apache-2.0 License 
 
 
   
   ## Contact
   
   
-  [GitHub](https://www.github.com/asd)
+  [GitHub](https://www.github.com/andresilva8624)
   
   
   
-  [EMail](mailto:asd)
+  [EMail](mailto:andresilva8624@gmail.com)
