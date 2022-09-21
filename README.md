@@ -16,7 +16,7 @@ Clone the repository to your local machine and open the index.html file in your 
 
 ## Usage
 
-[Deployed Site](https://github.com/andresilva8624/README-Generator)
+[Deployed Site](https://andresilva8624.github.io/README-Generator/)
 
 ![gif of deployed site](/assets/images/website.gif)
    
