@@ -1,8 +1,8 @@
-# README Generator  ![Badge](https://img.shields.io/badge/GitHub-Apache-2.0-green.svg)
+# README Generator  ![Badge](https://img.shields.io/badge/GitHub-MIT-green.svg)
 
 
   ## Description
-  Generates README.md file 
+  Generates README 
   
   ## Table of Contents 
    
@@ -20,7 +20,7 @@
   npm test
 
   ## Usage
-  README
+  ALl
   
      
   ## Credits
@@ -28,7 +28,7 @@
   
   
   ## License
-    This project is protected under a Apache-2.0 License 
+    This project is protected under a MIT License 
 
 
   

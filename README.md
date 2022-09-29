@@ -1,4 +1,5 @@
 # README-Generator
+![Badge](https://img.shields.io/badge/AndreGitHub-MIT-green.svg)
 
 The goal is to create a README Generator with Node.js. It asks your project title and description, installation and test intrutions, usage and credits, gives you 4 license options and finally asks for your GitHub username and your email address rendering a README.md file with a badge. Enjoy! 😀
 
