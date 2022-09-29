@@ -4,13 +4,10 @@ The goal is to create a README Generator with Node.js. It asks your project titl
 
 [Video Link](https://drive.google.com/file/d/19v3ayAX6MOGLqCADt8jl1YUmlOnr-eD0/view)
 
-
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-
 
 ## Installation
 
@@ -18,14 +15,11 @@ Clone the repository to your local machine and open the index.html file in your 
 
 ## Usage
 
+[Deployed Site Repository](https://github.com/andresilva8624/README-Generator)
 
-[Deployed Site](https://github.com/andresilva8624/README-Generator)
-
-[Deployed Site](https://andresilva8624.github.io/README-Generator/)
-
+[Deployed Site Web](https://andresilva8624.github.io/README-Generator/)
 
 ![gif of deployed site](/assets/images/website.gif)
-   
 
 ## Credits
 
@@ -55,13 +49,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
 ## Contact
+
 To contact me use one of the links below
 
-
 [GitHub](https://www.github.com/andresilva8624)
-
-
 
 [EMail](mailto:andresilva8624@gmail.com)
