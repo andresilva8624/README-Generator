@@ -1,6 +1,6 @@
 # README-Generator
 
-The goal is to create a README Generator with Node.js. It asks your project title and description, installation and test intrutions, usage and credits, gives you 4 license options and finally asks for your GitHub username and your email address rendering a REAME.md file with a badge. Enjoy! 😀
+The goal is to create a README Generator with Node.js. It asks your project title and description, installation and test intrutions, usage and credits, gives you 4 license options and finally asks for your GitHub username and your email address rendering a README.md file with a badge. Enjoy! 😀
 
 [Video Link](https://drive.google.com/file/d/19v3ayAX6MOGLqCADt8jl1YUmlOnr-eD0/view)
 
@@ -18,9 +18,13 @@ Clone the repository to your local machine and open the index.html file in your 
 
 ## Usage
 
+<<<<<<< HEAD
 
 
 [Deployed Site](https://github.com/andresilva8624/README-Generator)
+=======
+[Deployed Site](https://andresilva8624.github.io/README-Generator/)
+>>>>>>> 697ef623af4bc846ef76492a3b14c8c8760c9d27
 
 ![gif of deployed site](/assets/images/website.gif)
    
