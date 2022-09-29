@@ -18,13 +18,11 @@ Clone the repository to your local machine and open the index.html file in your 
 
 ## Usage
 
-<<<<<<< HEAD
-
 
 [Deployed Site](https://github.com/andresilva8624/README-Generator)
 =======
 [Deployed Site](https://andresilva8624.github.io/README-Generator/)
->>>>>>> 697ef623af4bc846ef76492a3b14c8c8760c9d27
+
 
 ![gif of deployed site](/assets/images/website.gif)
    
